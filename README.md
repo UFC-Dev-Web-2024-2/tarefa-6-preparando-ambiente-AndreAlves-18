@@ -109,6 +109,6 @@ Estas são algumas opções de editores de código:
     - [ ] ✨ Instalar o oh my zsh
     - [ ] ⚙️ Instalar o Power Toys
         - [ ] Testar o Power Toys
-- [ ] 🖊️ Instalar VSCOde (Editor de código)
+- [x] 🖊️ Instalar VSCOde (Editor de código)
 
 Após finalizar, seguir para a página que descreve o VSCode e indica extensões úteis: [VSCode](VSCODE.md).
